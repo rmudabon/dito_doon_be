@@ -10,8 +10,6 @@ dist/
 
 # Virtual environment
 venv/
-env/
-.env/
 .venv/
 
 # IDE-specific files
@@ -34,3 +32,6 @@ Thumbs.db
 # Other common exclusions
 temp/
 tmp/
+
+# Environment variables
+.env
