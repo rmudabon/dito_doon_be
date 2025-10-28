@@ -35,3 +35,4 @@ tmp/
 
 # Environment variables
 .env
+dito_doon_be/.env
